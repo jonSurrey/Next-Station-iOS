@@ -3,9 +3,6 @@
 </p>
 
 <h1 align="center">Próxima Estação</h1>
-  <p align="center">
-   <img width="100" height="30" src="https://github.com/jonSurrey/NextStation/blob/master/Assets/appstore_badge.png?raw=true"> 
-</p>
 <p align="center">
   <img src="https://img.shields.io/badge/platform-iOS-lightgrey.svg">
     <img src="https://img.shields.io/badge/version-1.0.0-red.svg">
