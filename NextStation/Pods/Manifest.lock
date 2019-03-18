@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (4.8.0)
+  - FloatingPanel (1.3.1)
+  - Parchment (1.5.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.7)
+  - FloatingPanel
+  - Parchment
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - FloatingPanel
+    - Parchment
+
+SPEC CHECKSUMS:
+  Alamofire: 3ec537f71edc9804815215393ae2b1a8ea33a844
+  FloatingPanel: e114bf8381b77ba8f6c353ea46155133cbce9c7b
+  Parchment: 5a8c9c73549a6d73a7c1b606c27246910d2e5720
+
+PODFILE CHECKSUM: 781bf110c96d59a04569e8c447153d7b17d62513
+
+COCOAPODS: 1.6.0.beta.1

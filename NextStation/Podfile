@@ -1,0 +1,22 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'NextStation' do
+  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
+
+  pod 'Alamofire', '~> 4.7'
+  pod 'FloatingPanel'
+  pod 'Parchment'
+
+  target 'NextStationTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+  target 'NextStationUITests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+end

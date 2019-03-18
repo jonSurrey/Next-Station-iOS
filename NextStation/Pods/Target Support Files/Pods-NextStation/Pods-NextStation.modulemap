@@ -1,0 +1,6 @@
+framework module Pods_NextStation {
+  umbrella header "Pods-NextStation-umbrella.h"
+
+  export *
+  module * { export * }
+}

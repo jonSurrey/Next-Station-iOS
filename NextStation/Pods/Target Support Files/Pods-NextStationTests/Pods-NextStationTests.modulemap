@@ -1,0 +1,6 @@
+framework module Pods_NextStationTests {
+  umbrella header "Pods-NextStationTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
