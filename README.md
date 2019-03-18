@@ -30,3 +30,7 @@ O "Próxima Estação" irá te auxiliar no seu dia-dia dentro das estações do 
   <img width="130" height="230" src="https://github.com/jonSurrey/NextStation/blob/master/Assets/img5.jpeg?raw=true">
   <img width="130" height="230" src="https://github.com/jonSurrey/NextStation/blob/master/Assets/img6.jpeg?raw=true">
 </p>
+
+### Observações:
+
+Alguns arquivos foram romovidos desse projeto por serem arquivos com informações sensíveis ao funcionamento do aplicativo. Foi mantido apenas as classes para intuito de estudo, curiosidade e discussões sobre a lógica de funcionamento do app.
