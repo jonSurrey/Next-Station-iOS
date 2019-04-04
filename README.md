@@ -1,12 +1,12 @@
 <p align="center">
-  <img width="200" height="200" src="https://github.com/jonSurrey/NextStation/blob/master/Assets/logo.jpg?raw=true">
+  <img width="200" height="200" src="https://github.com/jonSurrey/Next-Station-iOS/blob/master/Assets/logo.jpg?raw=true">
 </p>
 
 <h1 align="center">Próxima Estação</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/platform-iOS-lightgrey.svg">
     <img src="https://img.shields.io/badge/version-1.0.0-red.svg">
-  <a href="https://github.com/jonSurrey/NextStation/blob/master/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg"></a>
+  <a href="https://github.com/jonSurrey/Next-Station-iOS/blob/master/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg"></a>
     
 </p>
 <p align="center">
@@ -23,12 +23,12 @@ O "Próxima Estação" irá te auxiliar no seu dia-dia dentro das estações do 
 - SMS denúncia
 
 <p align="center">
-  <img width="130" height="230" src="https://github.com/jonSurrey/NextStation/blob/master/Assets/img1.jpg?raw=true">
-  <img width="130" height="230" src="https://github.com/jonSurrey/NextStation/blob/master/Assets/img2.jpeg?raw=true">
-  <img width="130" height="230" src="https://github.com/jonSurrey/NextStation/blob/master/Assets/img3.jpeg?raw=true">
-  <img width="130" height="230" src="https://github.com/jonSurrey/NextStation/blob/master/Assets/img4.jpeg?raw=true">
-  <img width="130" height="230" src="https://github.com/jonSurrey/NextStation/blob/master/Assets/img5.jpeg?raw=true">
-  <img width="130" height="230" src="https://github.com/jonSurrey/NextStation/blob/master/Assets/img6.jpeg?raw=true">
+  <img width="130" height="230" src="https://github.com/jonSurrey/Next-Station-iOS/blob/master/Assets/img1.jpg?raw=true">
+  <img width="130" height="230" src="https://github.com/jonSurrey/Next-Station-iOS/blob/master/Assets/img2.jpeg?raw=true">
+  <img width="130" height="230" src="https://github.com/jonSurrey/Next-Station-iOS/blob/master/Assets/img3.jpeg?raw=true">
+  <img width="130" height="230" src="https://github.com/jonSurrey/Next-Station-iOS/blob/master/Assets/img4.jpeg?raw=true">
+  <img width="130" height="230" src="https://github.com/jonSurrey/Next-Station-iOS/blob/master/Assets/img5.jpeg?raw=true">
+  <img width="130" height="230" src="https://github.com/jonSurrey/Next-Station-iOS/blob/master/Assets/img6.jpeg?raw=true">
 </p>
 
 ### Observações:
