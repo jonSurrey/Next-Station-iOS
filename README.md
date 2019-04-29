@@ -4,6 +4,8 @@
 
 <h1 align="center">Próxima Estação</h1>
 <p align="center">
+  <a href="https://itunes.apple.com/br/app/próxima-estação/id1456330659?mt=8"><img width="150" height="50" src="https://github.com/jonSurrey/Next-Station-iOS/blob/master/Assets/appstore_badge.png?raw=true"></a>
+<p align="center">
   <img src="https://img.shields.io/badge/platform-iOS-lightgrey.svg">
     <img src="https://img.shields.io/badge/version-1.0.0-red.svg">
   <a href="https://github.com/jonSurrey/Next-Station-iOS/blob/master/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg"></a>
