@@ -12,17 +12,17 @@
     
 </p>
 <p align="center">
-O transporte público metro-ferroviário(Metro e CPTM) é hoje a melhor opção de locomoção na cidade de São Paulo, e apesar de todas as dificuldades que enfrentamos, principalmente em sua qualidade, vamos tentar melhora-lo! 
+O transporte público metro-ferroviário (Metrô e CPTM) é hoje a melhor opção de locomoção na cidade de São Paulo, e, apesar de todas as dificuldades que enfrentamos, principalmente em sua qualidade, vamos tentar melhorá-lo! 
 </p>
 
 ### Funcionalidades:
 
-O "Próxima Estação" irá te auxiliar no seu dia-dia dentro das estações do Metro e CPTM. Você poderá ter de maneira fácil as seguintes funcionalidades:
-- Informação das situações das linhas do Metro
+O "Próxima Estação" irá te auxiliar no seu dia-dia dentro das estações do Metrô e CPTM. Você poderá ter de maneira fácil as seguintes funcionalidades:
+- Informação das situações das linhas do Metrô
 - Busca do melhor trajeto entre 2 estações, com descrição de cada passo que deve ser tomado para chegar ao destino
 - Busca da localização das estações
 - SMS denúncia
-- Mapa completo e interativo de todas as linhas do Metro e CPTM e suas estações
+- Mapa completo e interativo de todas as linhas do Metrô e CPTM e suas estações
 - O primeiro aplicativo do Brasil que permite visualizar o mapa das linhas e estações através de Realidade Aumentada.
 
 <p align="center">
@@ -40,4 +40,4 @@ O "Próxima Estação" irá te auxiliar no seu dia-dia dentro das estações do 
 
 ### Observações:
 
-Alguns arquivos foram romovidos desse projeto por serem arquivos com informações sensíveis ao funcionamento do aplicativo. Foi mantido apenas as classes para intuito de estudo, curiosidade e discussões sobre a lógica de funcionamento do app.
+Alguns arquivos foram removidos desse projeto por conterem informações sensíveis ao funcionamento do aplicativo. Foi mantido apenas as classes para intuito de estudo, curiosidade e discussões sobre a lógica de funcionamento do app.
